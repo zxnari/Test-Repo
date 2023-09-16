@@ -1186,3 +1186,33 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.16-02.40.41:135][382]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
 [2023.09.16-02.50.41:812][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2023.09.16-02.50.41:814][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
+[2023.09.16-03.00.42:590][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.16-03.00.42:592][986]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.09.16-03.10.43:296][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.16-03.10.43:297][786]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.09.16-03.20.43:973][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.09.16-03.20.43:975][588]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2023.09.16-03.22.20:170][878]LogDerivedDataCache: C:/Users/there/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 368 files in 662 folders with total size 2 MiB.
+[2023.09.16-03.30.44:300][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.09.16-03.30.44:301][389]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.09.16-03.40.44:976][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.16-03.40.44:978][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2023.09.16-03.50.45:641][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.16-03.50.45:642][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2023.09.16-04.00.46:409][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.16-04.00.46:411][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2023.09.16-04.10.47:090][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.16-04.10.47:092][592]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2023.09.16-04.20.47:731][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.09.16-04.20.47:732][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2023.09.16-04.22.20:181][672]LogDerivedDataCache: C:/Users/there/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.159 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 368 files in 662 folders with total size 2 MiB.
+[2023.09.16-04.30.48:076][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.16-04.30.48:078][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2023.09.16-04.40.48:773][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.09.16-04.40.48:775][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.09.16-04.50.49:429][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.09.16-04.50.49:431][799]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.09.16-05.00.50:118][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.09.16-05.00.50:119][601]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.09.16-05.10.50:468][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.09.16-05.10.50:470][402]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
