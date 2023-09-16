@@ -1126,3 +1126,56 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.16-00.20.32:639][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.077006 secs
 [2023.09.16-00.20.32:713][  3]LogD3D12RHI: Cannot end block when stack is empty
 [2023.09.16-00.22.20:089][106]LogDerivedDataCache: C:/Users/there/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.069 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 364 files in 656 folders with total size 2 MiB.
+[2023.09.16-00.27.46:178][996]LogViewport: Scene viewport resized to 1526x610, mode Windowed.
+[2023.09.16-00.27.46:251][996]LogSlate: Took 0.001108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.16-00.27.46:289][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-00.27.54:987][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-00.27.55:053][784]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-00.27.55:088][785]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-00.28.03:419][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.09.16-00.28.03:419][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.09.16-00.28.03:427][481]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2023.09.16-00.28.03:430][481]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2023.09.16-00.28.03:443][481]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.16-00.28.03:828][488]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.09.16-00.28.03:828][488]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2023.09.16-00.28.03:843][488]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_A85E45557DF18BA901_1597007087
+[2023.09.16-00.28.03:846][488]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_A85E45557DF18BA901_1597007087
+[2023.09.16-00.28.04:089][489]LogViewport: Scene viewport resized to 482x193, mode Windowed.
+[2023.09.16-00.28.07:074][615]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.09.16-00.28.07:076][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-00.28.07:076][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.16-00.28.07:101][615]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.09.16-00.28.08:271][615]LogSlate: Took 0.001210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.16-00.28.25:261][408]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-00.28.27:483][531]LogViewport: Scene viewport resized to 482x193, mode Windowed.
+[2023.09.16-00.28.28:198][565]Cmd: DELETE
+[2023.09.16-00.28.28:199][565]Cmd: ACTOR DELETE
+[2023.09.16-00.28.28:209][565]LogEditorActor: Deleted Actor: BP_FirstPersonCharacter_C
+[2023.09.16-00.28.28:239][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.09.16-00.28.28:241][565]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2023.09.16-00.30.32:963][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.16-00.30.32:965][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2023.09.16-00.40.33:625][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.09.16-00.40.33:626][760]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.017
+[2023.09.16-00.50.34:311][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.16-00.50.34:313][562]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2023.09.16-01.00.34:979][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.09.16-01.00.34:980][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2023.09.16-01.10.35:349][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.09.16-01.10.35:350][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2023.09.16-01.20.36:023][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.09.16-01.20.36:024][967]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2023.09.16-01.22.20:141][280]LogDerivedDataCache: C:/Users/there/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.121 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 368 files in 662 folders with total size 2 MiB.
+[2023.09.16-01.30.36:378][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.16-01.30.36:380][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2023.09.16-01.40.37:061][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.09.16-01.40.37:062][570]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2023.09.16-01.50.37:736][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.16-01.50.37:737][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2023.09.16-02.00.38:409][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.16-02.00.38:411][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2023.09.16-02.10.39:079][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.09.16-02.10.39:081][976]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2023.09.16-02.20.39:758][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.16-02.20.39:759][778]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
